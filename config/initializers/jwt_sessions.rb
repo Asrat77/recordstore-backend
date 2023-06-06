@@ -1,0 +1,1 @@
+JWTSessions.encryption_key = 'a_secret_key'
